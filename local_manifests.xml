@@ -6,17 +6,17 @@
 
     <project path="device/xiaomi/rodin" name="naden01/android_device_xiaomi_rodin" remote="gh" revision="afl-62" />
 
-    <project path="vendor/xiaomi/rodin" name="xyzuniverse/vendor_xiaomi_rodin" remote="tea" revision="lineage-23.0" />
+    <project path="vendor/xiaomi/rodin" name="xyzuniverse/proprietary_vendor_xiaomi_rodin" remote="tea" revision="lineage-23.0" />
 
     <project path="device/xiaomi/rodin-kernel" name="android_device_xiaomi_rodin-kernel" remote="gh" revision="lineage-22.2"/>
 
-    <project path="hardware/xiaomi" name="mt6899-rodin/hardware_xiaomi" remote="gh" revision="lineage-23.0" />
+    <project path="hardware/xiaomi" name="mt6899-rodin/android_hardware_xiaomi" remote="gh" revision="lineage-23.0" />
 
-    <project path="vendor/mediatek/ims" name="mt6899-rodin/android_vendor_mediatek_ims" remote="gh" revision="android-16" />
+    <project path="vendor/mediatek/ims" name="mt6878/android_vendor_mediatek_ims" remote="gh" revision="android-16" />
 
     <project path="device/mediatek/sepolicy_vndr" name="mt6899-rodin/android_device_mediatek_sepolicy_vndr" remote="gh" revision="lineage-23.0" />
 
     <project path="hardware/mediatek" name="mt6899-rodin/android_hardware_mediatek" remote="gh" revision="lineage-23.0" />
 
-    <project path="vendor/afterlife-priv/keys" name="nazephyrus/keys" remote="gl" revision="main" />
+    <project path="vendor/afterlife-priv/keys" name="naden01/keys" remote="gl" revision="main" />
 </manifest>
