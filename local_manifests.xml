@@ -2,8 +2,9 @@
 <manifest>
     <remote name="gh" fetch="https://github.com" />
     <remote name="tea" fetch="https://gitea.com" />
+    <remote name="gl" fetch="https://gitlab.com" />
 
-    <project path="device/xiaomi/rodin" name="naden01/device_xiaomi_rodin" remote="gh" revision="afterlife" />
+    <project path="device/xiaomi/rodin" name="naden01/device_xiaomi_rodin" remote="gh" revision="afl-62" />
 
     <project path="vendor/xiaomi/rodin" name="xyzuniverse/vendor_xiaomi_rodin" remote="tea" revision="lineage-23.0" />
 
@@ -16,4 +17,6 @@
     <project path="device/mediatek/sepolicy_vndr" name="mt6899-rodin/android_device_mediatek_sepolicy_vndr" remote="gh" revision="lineage-23.0" />
 
     <project path="hardware/mediatek" name="mt6899-rodin/android_hardware_mediatek" remote="gh" revision="lineage-23.0" />
+
+    <project path="vendor/afterlife-priv/keys" name="nazephyrus/keys" remote="gl" revision="main" />
 </manifest>
