@@ -16,7 +16,7 @@
 
     <project path="device/mediatek/sepolicy_vndr" name="mt6899-rodin/android_device_mediatek_sepolicy_vndr" remote="gh" revision="lineage-23.0" />
 
-    <project path="hardware/mediatek" name="crdroidandroid/android_hardware_mediatek" remote="gh" revision="16.0" />
+    <project path="hardware/mediatek" name="naden01/android_hardware_mediatek" remote="gh" revision="lineage-23.0" />
 
     <project path="vendor/afterlife-priv/keys" name="naden01/keys" remote="gl" revision="main" />
 </manifest>
