@@ -20,5 +20,5 @@
 
     <project path="vendor/afterlife-priv/keys" name="naden01/keys" remote="gl" revision="main" />
 
-    <project path="device/xiaomi/rodin-miuicamera" name="mt6899-rodin/android_device_xiaomi_rodin-miuicamera" remote="gh" revision="lineage-23.0" />
+#    <project path="device/xiaomi/rodin-miuicamera" name="mt6899-rodin/android_device_xiaomi_rodin-miuicamera" remote="gh" revision="lineage-23.0" />
 </manifest>
